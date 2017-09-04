@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BoardNotice</string>
+    <string name="facebook_app_id">239746059883486</string>
+    <string name="fb_login_protocol_scheme">fb239746059883486</string>
+</resources>

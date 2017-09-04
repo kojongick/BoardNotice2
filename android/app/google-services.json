@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "617466786199",
+    "firebase_url": "https://boardnotice-fbbf1.firebaseio.com",
+    "project_id": "boardnotice-fbbf1",
+    "storage_bucket": "boardnotice-fbbf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617466786199:android:4c7e5e09bcdc9b25",
+        "android_client_info": {
+          "package_name": "com.boardnotice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617466786199-rp8cvfg2hl21ahfgpkf5odv3bp257pgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX7E9Mlzlp3jKdKmOdf1WH2MphfRrWG1o"
+        },
+        {
+          "current_key": "AIzaSyBhoz5ENgSqyDPOgItsyMEPwHL225HSY6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
